@@ -239,4 +239,4 @@ Feel free to open an issue or submit a pull request!
 
 ## 🔗 Connect with VueNuxt Hub
 
-Follow [VueNuxt Hub on LinkedIn](https://www.linkedin.com/company/nuxtvuehub) for updates, releases, and community tips.
+Follow [VueNuxt Hub on LinkedIn](https://www.linkedin.com/company/vuenuxt-hub) for updates, releases, and community tips.
